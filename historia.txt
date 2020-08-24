@@ -1,0 +1,42 @@
+RDB=relation data base
+reglas de cold:
+    Informacion: 
+        toda la informacion se un RDB se muestra en tablas
+    Acceso garantizado:
+        los datos son accesibles a nivel logico utilizando
+        una combinacion de:
+            nombre de tabla, valor de clave primaria y nombre de columna.
+    Tratamiento sistematico de valores nulos:
+        se debe disponer de valores nulos, para representar informacion desconocida
+        o no aplicable de manera sistematica, independiente del tipo de dato
+    Catalogo dinamico en linea basado en el modelo relacional:
+        Los datos se almacenany admonistran usando el mr, con todas las operaciones.
+    Regla del sublenguaje de datos completo:
+        Un sistema relacional debe ser dinamico, poder comunicar las instrucciones por medio 
+        interfaz o un lenguaje con sintaxis bine definida
+    Regla de actualizacion de vistas
+        las vistas se deben poder actualizar, de manera automatica o manual.
+    Matriz CRUD(create, read, update, delete) de alto nivel
+        Se debe poder hacer las operaciones necesarias las veces necesarias
+    Independencia fisica de los datos
+        El modelo logico es independiente al modelo fisico, sean cuales sean los camnios el
+        modelo fisico no se alterara
+    Independencia de modificaciones logicas de datos
+        El nivel logico permanecera intacto pese a las operaciones que se hagan entre tablas
+    Independencia de las restricciones de integridad
+        la integridad para la rdb puede ser definido en el lenguaje  no por los programas.
+    Independencia distribuida
+        la rdb es independiente a la ditribucion, funcionara si es centralizada o distribuida
+    regla de la no subversion
+        si el sistema relacional tiene lenguaje de bajo nivel este no podra ser usado para
+        saltarse las reglas de integridad
+
+
+    
+    
+
+
+
+    
+bases de datos basadas en archivos
+    guardar en un archivo de texto plano  

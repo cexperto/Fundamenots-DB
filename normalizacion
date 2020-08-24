@@ -1,0 +1,17 @@
+es la forma de dejar la bd en una forma normal, sigue las normas de cood y es el aspecto
+que hace que la bd sea relacional
+
+1 forma normal
+atributos atomicos=> no tener campos repetidos
+2 forma normal
+debe estar en la 1era froma normal
+no dependencias parciales=> cuando 1 mas columnas sirven como primary ley
+3 forma normal
+debe estar en la 1era y la 2da
+los campos que no son clave no deben tener dependencias transitivas
+dependencia transitiva=> cuando una columna que no es primary depende de
+                         otra que tampoco es primary
+4 forma normal
+cumple las 3 primeras
+los campos multivaluados se identifican con una llave unica                      
+

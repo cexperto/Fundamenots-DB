@@ -1,0 +1,21 @@
+text{
+    var,
+    varchar,
+    text
+}
+number{
+    integer,
+    bigint,
+    smallint,
+    decinal,
+    numeric
+}
+date{
+    date,
+    time,
+    datatime,
+    timeestamp
+}
+logic{
+    boolean
+}

@@ -1,0 +1,40 @@
+importancia de las bd 
+sistemas de escritura couniforme
+    =>sumerios
+        -tablas de arcilla, piedra
+pergaminos
+los CHINOS= invencion del papel
+
+siglo xx -xxi
+-microfim: guarda informacin por largas temporadas de tiempo 
+-sistemas digitales
+-nube
+Tipos de base de datos
+    -relacionales{
+        privadas:{
+            sqlserver,
+            oracle
+        },
+        open Source:{
+            postgres,
+            mysql,
+            MariaDB
+        }
+    }
+    -no relacionales{
+        memcash,
+        casandra,
+        dianmodb,
+        elasticsearch,
+        neo4j,
+        mongoDB,
+        firesure
+    }
+servicios:
+    -autoadministrados:
+        bd que se instala, nos encargamos del mantenimineto y actualizacion
+    -administrados
+        servicios que ofrecen las nubes.
+
+
+ 

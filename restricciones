@@ -1,0 +1,9 @@
+constraints{
+    not null, 
+    unique, 
+    Primary Key,
+    Foreign Key,
+    Check,
+    Default,
+    Index 
+}

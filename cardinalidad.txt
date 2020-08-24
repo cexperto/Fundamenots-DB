@@ -1,0 +1,6 @@
+es la manera en la que persisten los datos entre relaciones:
+1 a 1   uno a uno
+1 a N   uno a muchos
+N a 1   muchos a uno
+0 a N   cero a muchos
+N a N   muchos a muchos

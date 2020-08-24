@@ -1,0 +1,15 @@
+entidad fuerte:
+    Es la entidad qie no existe sin ser relacionada
+    es identidicada inequivocamnete
+entidades debliles:
+    por identidad:no se diferencian entre si mas que por su entidad fuerte
+    por existencia: es dependidnte or concepto
+    cuadrado con doble linea
+Relaciones.
+    es la manera en que se relaciona una entidad con otras, 
+    normalmente en el ER se asocia con un verbo
+
+    entidad         relacion          entidad
+       |              |                     |   
+    |empresa|         <tiene>         |clientes|         
+    una empresa   tiene uno o mas clientes 
