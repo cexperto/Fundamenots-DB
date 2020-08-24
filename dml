@@ -1,0 +1,12 @@
+d   data
+m   manipulation 
+l   lenguage
+
+insert =insertar datos
+    INSERT INTO table(campo1,campo2....)values ('valor1','valor2');
+update =actualizar datos()
+    UPDATE nombre tabla SET campo1='nuevo valor' WHERE condition;
+delete =borrar datos 
+    DELETE FROM tabla WHERE condicion
+select =consultar datos
+    SELECT campos FROM tabla WHERE condicion

@@ -1,0 +1,12 @@
+ddl create
+d   data 
+d   definition 
+l   lenguague
+create => crea db, tables, views, index
+alter =>modify 
+drop => elimina 
+
+grupos para manejar con ddl
+database
+table
+view

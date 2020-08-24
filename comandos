@@ -1,0 +1,5 @@
+create database nombredb;
+use database nombredb;
+shows tables;
+describe table;
+alter table

@@ -1,0 +1,5 @@
+drop: 
+borra tabñas o bd
+
+DROP TABLE  nombre-de-tabla;
+DROP DATABASE nombre-bd

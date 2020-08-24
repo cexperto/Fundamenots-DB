@@ -1,0 +1,3 @@
+Una vista es una manera de agrupar consultas
+create or replace view as vista1
+    select * from table;
