@@ -1,0 +1,12 @@
+R => relational
+d => data
+b => base
+m => management
+s => system
+
+Programa que esta encargado de seguir las reglas de Cood 
+ej:
+    oracle
+        -Mysql
+    postgress
+    
