@@ -1,0 +1,17 @@
+una consulta bien hecha puede salvar un negocio
+transforma un apregunta duda a como decirle a la bd que presente la informacion
+etl 
+busines inteligence
+machine learning
+
+ejemplo
+GRPUP BY = organiza por grupo 
+ej: group by city=>organiza personas por ciudad, las agrupa
+ORDER BY campo DES=>ordena de mayor a menor
+HAVING = filtra
+
+tipod de join
+inner join
+left join
+right join
+full outer join=> trae los elementos de los dos conjuntos menos los de la interseccion
