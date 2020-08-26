@@ -8,10 +8,20 @@ ejemplo
 GRPUP BY = organiza por grupo 
 ej: group by city=>organiza personas por ciudad, las agrupa
 ORDER BY campo DES=>ordena de mayor a menor
-HAVING = filtra
+HAVING = filtra: despues de group antes de o rder
 
 tipod de join
 inner join
 left join
 right join
 full outer join=> trae los elementos de los dos conjuntos menos los de la interseccion
+
+like:
+no se conoce la cadena exacta 
+WHERE campo LIKE %palabra%
+BETWEEN condicion AND condicion 
+GROUP BY campo
+ORDER BY ASC <
+ORDER BY DEC >
+ordenar por cadena
+ORDER BY titulo ASC
