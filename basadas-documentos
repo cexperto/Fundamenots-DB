@@ -1,0 +1,13 @@
+Servicios admnistrados
+    |Se delegan la mayoria de funciones al proveedor de servicios
+    se utilizan para desarrollo de aplicaciones web
+
+Firestore(Google)
+    tiene interfaz muy amigable 
+
+    Jerarquias 
+                        -documentos
+        - collecion     -documentos
+    BD                  
+        -coleccion      -documentos
+                        -documentos

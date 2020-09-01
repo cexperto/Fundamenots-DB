@@ -1,0 +1,29 @@
+tipose de bd no relacionales
+clave valor
+    manejan diccionarios de manera excepcional
+    se almacenan grandes cantidades de datos por id
+    Dynamo
+    cassandra
+
+basadas en documentos
+    documentos se le llaman a objetos tipo Json y XML, clave avor mas estructurada
+    Mongo
+    Firestore=> opcion enla nube administrado
+
+basadas en grafos
+    basadas en teorias de grafos, todos estan relacionados co todos
+    se utilizcan en IA, redes neuronales
+    neo4j
+    titan
+
+basadas en memoria
+    son muy rapidas porque viven en memoria, 
+    tienen limite
+    son volatiles
+    Memchad 
+    Redis
+
+optimizadas para busquedas
+    Ayudan hacer querys complejos de manera sencilla
+    BigQuery
+    Elasticsearch
