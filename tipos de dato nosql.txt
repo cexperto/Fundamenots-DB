@@ -1,0 +1,25 @@
+string 
+Lo que es texto
+
+number 
+enteros o decimales
+
+boolean 
+true/false
+
+map 
+meter otro documento dentro del documento
+
+array 
+meter grupos de datos sin identificador
+
+null
+
+timestamp 
+fecha y hora
+
+geopoint 
+localización geográfica
+
+reference 
+referencia la liga a otro documento. “la llave foránea”
